@@ -30,3 +30,6 @@ http://www.red-gate.com/products/azure-development/azure-explorer/download
   
 https://www.microsoft.com/en-gb/download/details.aspx?id=36535
 
+  8. Skype debuging tool (snooper)
+  
+https://www.microsoft.com/en-us/download/details.aspx?id=47263
